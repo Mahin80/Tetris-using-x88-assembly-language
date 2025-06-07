@@ -1,4 +1,4 @@
-# 🧱 Tetris in x86 Assembly
+# Tetris in x86 Assembly
 
 **Tetris** is a complete Tetris clone developed in **x86 Assembly language ** using low-level hardware control, designed to run in a DOS environment. It features custom video rendering, score tracking, real-time timer, and shape rotations—all from scratch.
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 | Tool      | Purpose                          |
 |-----------|----------------------------------|
