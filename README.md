@@ -30,6 +30,6 @@
 ## 👥 Contributors
 
 This project was made possible through collaborative effort, creativity, and persistence during our coursework.
-Special thanks to those who helped develop and build this project:
+Special thanks to these who helped develop and build this project:
 -  **Romana**  @romana-12
 -  **Marusha** @marooshamalik05
