@@ -1,6 +1,6 @@
-# 🧱 Tetrus - Tetris in x88 Assembly
+# 🧱 Tetrus - Tetris in x86 Assembly
 
-**Tetrus** is a complete Tetris clone developed in **x88 Assembly language (8088)** using low-level hardware control, designed to run in a DOS environment. It features custom video rendering, score tracking, real-time timer, and shape rotations—all from scratch.
+**Tetrus** is a complete Tetris clone developed in **x86 Assembly language (8088)** using low-level hardware control, designed to run in a DOS environment. It features custom video rendering, score tracking, real-time timer, and shape rotations—all from scratch.
 
 >  This project was developed as part of a university coursework project on low-level programming and systems architecture.
 
@@ -23,7 +23,7 @@
 | Tool      | Purpose                          |
 |-----------|----------------------------------|
 | **NASM**  | Assembler to compile `.asm` code |
-| **AFD**   | Debugger for 8088/DOS programs    |
+| **AFD**   | Debugger for DOS programs        |
 | **DOSBox**| Emulator for running `.COM` file |
 
 ---
