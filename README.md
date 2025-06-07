@@ -23,7 +23,7 @@
 | Tool      | Purpose                          |
 |-----------|----------------------------------|
 | **NASM**  | Assembler to compile `.asm` code |
-| **AFD**   | Debugger for 8086/DOS programs    |
+| **AFD**   | Debugger for 8088/DOS programs    |
 | **DOSBox**| Emulator for running `.COM` file |
 
 ---
